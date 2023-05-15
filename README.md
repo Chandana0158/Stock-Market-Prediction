@@ -1,1 +1,1 @@
-# tock-Market-Prediction
+# Stock-Market-Prediction
